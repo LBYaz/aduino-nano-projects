@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..\\..",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:nano:cpu=atmega328",
+  "hardwareFolders": "C:\\Users\\Intel\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7,C:\\Users\\Intel\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7",
+  "otherLibrariesFolders": "C:\\Users\\Intel\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\Intel\\Desktop\\nanostudy\\text01"
+}
