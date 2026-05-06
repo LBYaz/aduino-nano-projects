@@ -1,4 +1,4 @@
-c:\Users\Intel\Desktop\nanostudy\text01\build\core\PluggableUSB.cpp.o: \
+D:\aduino-nano-projects\nanostudy\text01\build\core\PluggableUSB.cpp.o: \
  C:\Users\Intel\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\PluggableUSB.cpp \
  C:\Users\Intel\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\USBAPI.h \
  C:\Users\Intel\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.7\cores\arduino\Arduino.h \

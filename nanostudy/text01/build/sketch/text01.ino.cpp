@@ -1,10 +1,10 @@
 #include <Arduino.h>
-#line 1 "C:\\Users\\Intel\\Desktop\\nanostudy\\text01\\text01.ino"
-#line 1 "C:\\Users\\Intel\\Desktop\\nanostudy\\text01\\text01.ino"
+#line 1 "D:\\aduino-nano-projects\\nanostudy\\text01\\text01.ino"
+#line 1 "D:\\aduino-nano-projects\\nanostudy\\text01\\text01.ino"
 void setup();
-#line 4 "C:\\Users\\Intel\\Desktop\\nanostudy\\text01\\text01.ino"
+#line 4 "D:\\aduino-nano-projects\\nanostudy\\text01\\text01.ino"
 void loop();
-#line 1 "C:\\Users\\Intel\\Desktop\\nanostudy\\text01\\text01.ino"
+#line 1 "D:\\aduino-nano-projects\\nanostudy\\text01\\text01.ino"
 void setup() {
     pinMode(2, OUTPUT);
 }
