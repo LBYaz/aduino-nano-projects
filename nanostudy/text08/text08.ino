@@ -5,9 +5,9 @@ void setup(){
   pinMode(DO,INPUT);
 }
 void loop(){
-  int adc=analogRead(AO);
-  int doState=digitalRead(DO);
-  Serial.print("ADC原始值：");
+  int adc = analogRead(AO);
+  int doState = digitalRead(DO);
+  Serial.print("ADC原始值：");印
   Serial.print(adc);
   Serial.print(" DO电平：");
   Serial.println(doState);
