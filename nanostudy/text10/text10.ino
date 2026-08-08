@@ -21,6 +21,6 @@ if(!pushButton1 && brightness >0){
 }
 analogWrite(led,brightness);
 delay(10);
-Serial.println(brightness);
+Serial.println(brightness);                                                                                                                            
 
 }
